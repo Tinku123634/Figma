@@ -34,7 +34,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-
+~~~
 <div style="position: absolute; top: 22px; left: 16px; width: 353px; height: 53px; background-image: url('getBytesAsync'); background-size: cover;"></div>
 <div style="position: absolute; top: 128px; left: 99px; width: 171px; height: 171px; background-image: url('getBytesAsync'); background-size: cover;"></div>
 <div style="position: absolute; top: 422px; left: 105px; width: 165px; height: 60px; background-color: #d9d9d9;"></div>
@@ -73,7 +73,7 @@ CONTACT US:
 saveethaengg@gmail.com</div>
 <div style="position: absolute; top: 324px; left: 35px; color: #000000;">THANK YOU FOR THE RESPONSE</div>
 <div style="position: absolute; top: 462px; left: 90px; color: #000000;">HAVE A GOOD DAY!</div>
-
+~~~
 
 ## OUTPUT:
 ![WhatsApp Image 2025-12-24 at 1 37 01 PM](https://github.com/user-attachments/assets/8ec8b6bf-3976-436e-9a67-0e7dbcb1f255)
